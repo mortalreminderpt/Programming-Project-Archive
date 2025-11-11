@@ -18,6 +18,7 @@
 | COMP90015 | 分布式系统 | 协作白板（MCP）                           | [GitHub](https://github.com/mortalreminderpt/whiteboard-app-mcp) |
 | COMP90048 | 声明式编程 | 填词谜题求解器                             | [GitHub](https://github.com/mortalreminderpt/Fill-In-Puzzle-Solver) |
 |               |                | 战舰游戏求解器                             | [GitHub](https://github.com/mortalreminderpt/Battleship-Solver) |
+| COMP90049 | 机器学习导论 | 文本表示的重要性 | [GitHub](https://github.com/mortalreminderpt/text-representation-matters) |
 | COMP90086 | 计算机视觉 | Nutrition Monitor (RGB-D 营养监测与卡路里估算) | [GitHub](https://github.com/mortalreminderpt/nutrition-monitor) |
 
 ### 开源协议
