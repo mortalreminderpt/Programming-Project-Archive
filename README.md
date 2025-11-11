@@ -16,6 +16,7 @@ As I approach graduation, I’ve decided to share several of my past programming
 | COMP90015 | Distributed Systems              | Collaborative Whiteboard (MCP)          | [GitHub](https://github.com/mortalreminderpt/whiteboard-app-mcp) |
 | COMP90048 | Declarative Programming          | Fill-In Puzzle Solver                    | [GitHub](https://github.com/mortalreminderpt/Fill-In-Puzzle-Solver) |
 |               |                                      | Battleship Solver                        | [GitHub](https://github.com/mortalreminderpt/Battleship-Solver) |
+| COMP90049 | Introduction to Machine Learning | Text Representation Matters | [GitHub](https://github.com/mortalreminderpt/text-representation-matters) |
 | COMP90086 | Computer Vision                  | Nutrition Monitor (RGB-D Calorie Estimation) | [GitHub](https://github.com/mortalreminderpt/nutrition-monitor) |
 
 ### License
